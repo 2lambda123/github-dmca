@@ -22,11 +22,11 @@ I am the [private] of original (lua) code.(nickname on [private] site:[private])
 
 **Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**
 
-Well, the whole current github repository is infringing on [private] work.  
-My original (copyrighted) repository is accessible via [private].  
-To get a copy of [private] repository use the following command: [private]  
-Or browsable from [private] Repository browser: [private]  
-The Amadeus current github repository is full copy of [private] files (but little modified):https://github.com/Amadeus-/Broker_ProfessionsMenu  
+Well, the whole current github repository is infringing on [private] work.
+My original (copyrighted) repository is accessible via [private].
+To get a copy of [private] repository use the following command: [private]
+Or browsable from [private] Repository browser: [private]
+The Amadeus current github repository is full copy of [private] files (but little modified):https://github.com/Amadeus-/Broker_ProfessionsMenu
 I want to take down the whole "amadeus" clone github repository.
 
 **What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL.**
